@@ -1,7 +1,7 @@
-id=xiaomi-safetynet-fix
-name=Universal SafetyNet Fix
-version=v1.10.1
-versionCode=15
-author=Deiki
+id=xiaomi-safetynet-fix-jason
+name=Universal SafetyNet Fix for MiNote3 (Jason)
+version=v1
+versionCode=1
+author=Deiki & AL_IRAQI
 description=Try to fix SafetyNet on devices with MIUI Developer/Beta ROM, CyanogenMod, Lineage OS, Resurrection Remix, etc.
 template=3
