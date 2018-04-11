@@ -71,9 +71,6 @@ $RESETPROP "ro.bootimage.build.fingerprint" "Xiaomi/jason/jason:7.1.1/NMF26X/V8.
 $RESETPROP "ro.build.description=jason-user" "7.1.1 NMF26X V8.5.12.0.NCHCNED release-keys"
 $RESETPROP "ro.build.type" "user"
 $RESETPROP "ro.build.tags" "release-keys"
-$RESETPROP "ro.build.selinux" "0"
-$RESETPROP "selinux.reload_policy" "1"
-$RESETPROP "persist.magisk.hide" "1"
 
 background &
 
